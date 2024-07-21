@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Emmanueluzoezie
-- 👀 I’m a frontend developer that’s so much interested in software development.
-- 🌱 I’m currently learning backend development
-- 💞️ I’m looking to collaborate on backend and frontend development projects
-- 📫 How to reach me. You reach me on gmail: heyjonue@gmail.com or Twitter: https://twitter.com/Emmauzoezie or Linkedin: https://www.linkedin.com/in/emmanuel-j-uzoezie-a40608176/ or call: +2349121271988
+- 👀 I’m a Fullstack blockchain and web developer that’s so much interested in software development.
+- 🌱 I’m currently learning Blockchain development
+- 💞️ I’m looking to collaborate on Blockchain development projects
+- 📫 How to reach me. You reach me on gmail: emmanueluzoeziejobs@gmail.com or Twitter: [https://twitter.com/Emmauzoezie](https://x.com/Emmauzoezie) or call: +2349121271988
 
 <!---
 Emmanueluzoezie/Emmanueluzoezie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
